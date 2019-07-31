@@ -1,5 +1,5 @@
 ```
-this.addGetComponent(ButtonCommponent).handler = ()=>{
+new GameNodeGroup().addGetComponent(ButtonCommponent).handler = ()=>{
     //do some thing
 }
 ```
